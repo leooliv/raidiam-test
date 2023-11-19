@@ -1,0 +1,14 @@
+{
+  "name": "test_leo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "check-weather": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
